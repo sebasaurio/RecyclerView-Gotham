@@ -1,0 +1,45 @@
+[
+{
+  "nombre": "El Guasón",
+  "imagen": "https://upload.wikimedia.org/wikipedia/en/8/87/Joker_%28Alex_Ross%29.jpg",
+  "imagen2": "http://images.eonline.com/eol_images/Entire_Site/201678//rs_600x338-160808115700-joker_a.jpg",
+  "latitud": "-33.575645",
+  "longitud": "-70.549837"
+},
+{
+  "nombre": "Bane",
+  "imagen": "https://en.wikipedia.org/wiki/Bane_(comics)#/media/File:Bane_breaks_Batman.png",
+  "imagen2": "http://www.fitzness.com/blog/wp-content/uploads/Tom-Hardy-Bane-Head-Shot.jpeg",
+  "latitud": "-33.434295",
+  "longitud": "-70.659802"
+},
+{
+  "nombre": "Gatúbela",
+  "imagen": "https://en.wikipedia.org/wiki/Catwoman#/media/File:Catwoman-ninelives-tpb.jpg",
+  "imagen2": "https://i.ytimg.com/vi/To7jKz8rF8w/maxresdefault.jpg",
+  "latitud": "-33.444705",
+  "longitud": "-70.635776"
+},
+{
+  "nombre": "Hugo Strange",
+  "imagen": "https://en.wikipedia.org/wiki/Hugo_Strange#/media/File:ModernHugoStrange.jpg",
+  "imagen2": "https://upload.wikimedia.org/wikipedia/en/c/cd/Hugo_Strange_Gotham.jpg",
+  "latitud": "-33.422235",
+  "longitud": "-70.650124"
+},
+{
+  "nombre": "Deadshot",
+  "imagen": "https://en.wikipedia.org/wiki/Deadshot#/media/File:A_prime_pic_of_Deadshot.png",
+  "imagen2": "http://images6.fanpop.com/image/photos/39600000/Character-Promos-Will-Smith-as-Deadshot-suicide-squad-39678975-334-500.jpg",
+  "latitud": "-33.532675",
+  "longitud": "-70.553067"
+},
+{
+  "nombre": "Mr. Freeze",
+  "imagen": "https://en.wikipedia.org/wiki/Mr._Freeze#/media/File:Freezebig.png",
+  "imagen2": "http://puroseries.com/wp-content/uploads/2015/10/Mr-freeze-evil-plan.jpg",
+  "latitud": "-33.464078",
+  "longitud": "-70.681267"
+}
+
+]

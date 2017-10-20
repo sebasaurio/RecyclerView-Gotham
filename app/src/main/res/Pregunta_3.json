@@ -1,0 +1,39 @@
+[
+{
+  "nombre": "El Guasón",
+  "imagen": "https://upload.wikimedia.org/wikipedia/en/8/87/Joker_%28Alex_Ross%29.jpg",
+  "latitud": "-33.575645",
+  "longitud": "-70.549837"
+},
+{
+  "nombre": "Bane",
+  "imagen": "https://en.wikipedia.org/wiki/Bane_(comics)#/media/File:Bane_breaks_Batman.png",
+  "latitud": "-33.434295",
+  "longitud": "-70.659802"
+},
+{
+  "nombre": "Gatúbela",
+  "imagen": "https://en.wikipedia.org/wiki/Catwoman#/media/File:Catwoman-ninelives-tpb.jpg",
+  "latitud": "-33.444705",
+  "longitud": "-70.635776"
+},
+{
+  "nombre": "Hugo Strange",
+  "imagen": "https://en.wikipedia.org/wiki/Hugo_Strange#/media/File:ModernHugoStrange.jpg",
+  "latitud": "-33.422235",
+  "longitud": "-70.650124"
+},
+{
+  "nombre": "Deadshot",
+  "imagen": "https://en.wikipedia.org/wiki/Deadshot#/media/File:A_prime_pic_of_Deadshot.png",
+  "latitud": "-33.532675",
+  "longitud": "-70.553067"
+},
+{
+  "nombre": "Mr. Freeze",
+  "imagen": "https://en.wikipedia.org/wiki/Mr._Freeze#/media/File:Freezebig.png",
+  "latitud": "-33.464078",
+  "longitud": "-70.681267"
+}
+
+]
